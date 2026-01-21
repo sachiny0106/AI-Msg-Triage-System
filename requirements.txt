@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+sqlalchemy
+pydantic
+python-multipart
+# For dev/test
+requests
+httpx
