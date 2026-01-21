@@ -12,8 +12,6 @@ env/
 .idea/
 
 *.db
-models/*.joblib
-data/*.csv
 
 .DS_Store
 Thumbs.db
